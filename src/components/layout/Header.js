@@ -10,7 +10,7 @@ const Header = () => {
             </a>
 
             <div className='header-text'>
-                React Router 4
+                Aditya Jalan
             </div>
 
         </header>
