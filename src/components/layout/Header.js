@@ -10,7 +10,7 @@ const Header = () => {
             </a>
 
             <div className='header-text'>
-                Aditya Jalan
+                Ady20020@gmail.com
             </div>
 
         </header>
