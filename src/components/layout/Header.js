@@ -1,5 +1,5 @@
 import React from 'react';
-import {Image} from "react-bootstrap";
+import { Image } from "react-bootstrap";
 
 const Header = () => {
 
@@ -10,7 +10,7 @@ const Header = () => {
             </a>
 
             <div className='header-text'>
-                Aditya Jalan
+                Aditya Jalan !.
             </div>
 
         </header>
@@ -19,3 +19,4 @@ const Header = () => {
 
 export default Header;
 
+=IF(OR(D2 = 48237626, D2 = 48050788, D2 = 54343805), "Yes", "")
