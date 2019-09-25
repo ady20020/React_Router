@@ -10,7 +10,7 @@ const Header = () => {
             </a>
 
             <div className='header-text'>
-                Aditya Jalan !....
+                Aditya Jalan !......
             </div>
 
         </header>
